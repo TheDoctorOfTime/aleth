@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+
+#lumba_img{
+    margin: -5em;
+}
+
+.top{
+    font-family: 'Dongle', sans-serif;
+    font-size: 10em;
+    text-align: center;
+
+    padding: 0.2em;
+    margin-top: 0.2em;
+}
+
+.content{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2em;
+    text-align: left;
+
+    padding: 3em;
+    margin:2em;
+
+    margin-top: 1em;
+    padding-top: 0em;
+}
+
+.content-title{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2em;
+    text-align: left;
+
+    padding: 3em;
+    margin: 2em;
+    margin-bottom: 0em;
+    padding-bottom: 0em;
+}
+
+#greeting{
+    font-family: 'Dongle', sans-serif;
+    font-size: 10em;
+    text-align: center;
+
+    padding: 0.2em;
+    margin-top: 0.2em;
+}
+
